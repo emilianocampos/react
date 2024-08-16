@@ -62,7 +62,7 @@ function App() {
   return (
     <>
       <button onClick={handleClickNext}>Siguiente</button>
-      <h1>{escultura.name}</h1>
+      <h1>Hola</h1>
     </>
   );
 }
